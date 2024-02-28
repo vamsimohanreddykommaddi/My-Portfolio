@@ -1,5 +1,5 @@
 # ✨ My Portfolio ✨
-Live Demo : https://comfy-bublanina-e3dbc8.netlify.app/
+Live Demo : https://vamsi-mohan-reddy-kommaddi.netlify.app/
 
 A fully responsive portfolio website showcasing my skills and projects. 🚀
 
