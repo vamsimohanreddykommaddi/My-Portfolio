@@ -5,7 +5,7 @@
 Welcome to the source code of my personal portfolio website!  
 This site highlights my skills, projects, work experience, and professional journey as a Data Science and Web Development enthusiast.
 
-🌐 **Live Website:** [https://vamsi-mohan-reddy-kommaddi.netlify.app](https://vamsi-mohan-reddy-kommaddi.netlify.app)
+🌐 **Live Website:** [live demo](https://vamsi-mohan-reddy-portfolio.vercel.app/)
 
 ---
 
